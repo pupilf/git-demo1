@@ -7,3 +7,6 @@ Hello git!!!
 Hello git!!!
 Hello git!!!
 You are right
+
+git clone <url> ->clone remote repository data to local
+clone operate will complish three operations that include 1)init local repository  2)pull data  3)give a name to remote repository url
